@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(16, 16, 20);
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+p {
+  color: gray;
+  font-size: 12px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.pbu-movie-card > img:first-of-type {
+  object-fit: cover;
+  width: 100%;
+}
+
+.pbu-movie-info {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.pbu-header {
+  background-color: rgb(50, 46, 107);
+  
+}
+
+.pbu-middle {
+  padding: 0 100px;
+}
+.pbu-title{
+    font-size: 4em;
+    font-weight: 700;
+   
+}
+
+
+
